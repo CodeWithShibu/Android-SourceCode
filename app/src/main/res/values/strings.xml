@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drive Direct Donload Link Generator</string>
+    <string name="paste_google_drive_link">Paste Google Drive Link</string>
+    <string name="https_drive_google_com_file_d_1sxe2tkyvjniyyidcwptejgvq6gict_view_usp_drivesdk">https://drive.google.com/file/d/1SxE2tKyvjniyYIDCWpteJgvQ6gICt/view?usp=drivesdk</string>
+    <string name="paste">Paste</string>
+    <string name="clear">Clear</string>
+    <string name="generate">Generate</string>
+    <string name="reset">RESET</string>
+    <string name="copy">COPY</string>
+    <string name="note">NOTE:</string>
+    <string name="this_will_only_work_for_files_that_you_upload_google_drive_it_will_not_work_for_documents_presentations_etc_created_inside_google_drive_if_you_want_to_create_a_direct_donoad_link_for_those_first_donload_them_to_your_computer_then_upload_that_file_back_on_to_google_drive">This will only work for files that you UPLOAD Google Drive. It will not work for documents,presentations,etc. created inside Google drive. If you want to create a direct donoad link for those, first donload them to your computer then upload that file back on to Google Drive</string>
+    <string name="instruction_and_demo">Instruction and Demo</string>
+</resources>
